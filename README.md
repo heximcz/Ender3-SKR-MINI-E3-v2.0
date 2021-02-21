@@ -9,7 +9,7 @@
 Latest stable firmware is version 2.0.7.2
 Latest compiled fw 2.0.x-bugfix is [(2119e19)](https://github.com/MarlinFirmware/Marlin/commits/bugfix-2.0.x) from July 21
 
-Us FB Group: [facebook group](https://www.facebook.com/groups/250076019468348/).
+Our FB Group: [facebook group](https://www.facebook.com/groups/250076019468348/).
 
 Tester:
 - Tomas Unger
